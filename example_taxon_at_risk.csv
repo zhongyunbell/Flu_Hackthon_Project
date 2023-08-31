@@ -1,0 +1,11 @@
+id,description,/country,/date,YERS_FP8_A(f)_relative_abundance,YERS_RP12_A(r)_relative_abundance,YERS_FP8_A(f)_3_prime_mismatch,YERS_RP12_A(r)_3_prime_mismatch,YERS_FP8_A(f)_mismatch_count,YERS_RP12_A(r)_mismatch_count
+CP007448.2,"Yersinia enterocolitica LC20, complete genome.",China_Zhejiang,21-NOV-2017,0.04,0.04,0,2,3.0,5.0
+CP016940.1,"Yersinia enterocolitica strain YE5 chromosome, complete genome.",Finland,23-AUG-2016,0.22,0.96,0,0,1.0,0.0
+CP016935.1,"Yersinia enterocolitica strain YE7 chromosome, complete genome.",Finland,23-AUG-2016,0.22,0.96,0,0,1.0,0.0
+CP016944.1,"Yersinia enterocolitica strain YE3 chromosome, complete genome.",Finland,23-AUG-2016,0.22,0.96,0,0,1.0,0.0
+CP016931.1,"Yersinia enterocolitica strain YE165 chromosome, complete genome.",Switzerland,23-AUG-2016,0.22,0.96,0,0,1.0,0.0
+CP016945.1,"Yersinia enterocolitica strain YE1 chromosome, complete genome.",Finland,23-AUG-2016,0.22,0.96,0,0,1.0,0.0
+CP016937.1,"Yersinia enterocolitica strain YE6 chromosome, complete genome.",Finland,23-AUG-2016,0.22,0.96,0,0,1.0,0.0
+CP009367.1,"Yersinia enterocolitica strain WA, complete genome.",USA_New_York,28-MAY-2015,0.15,0.96,0,0,1.0,0.0
+LR590469.1,"Yersinia enterocolitica subsp. enterocolitica strain NCTC12982 genome assembly, chromosome: 1.",XXX,10-MAY-2019,0.15,0.96,0,0,1.0,0.0
+CP009846.1,"Yersinia enterocolitica strain 8081, complete genome.",USA_Ohio,28-MAY-2015,0.15,0.96,0,0,1.0,0.0

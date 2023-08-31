@@ -1,0 +1,101 @@
+Isolate_Id	Isolate_Name	Location	Host	Collection_Date	country	FluA_assay(f)	FluA_assay(r)	FluA_assay(f)_relative_abundance	FluA_assay(r)_relative_abundance	FluA_assay(f)_3_prime_mismatch	FluA_assay(r)_3_prime_mismatch	FluA_assay(f)_mismatch_ratio	FluA_assay(r)_mismatch_ratio
+EPI_ISL_15928821	A/Hawaii/46/2022	North America / United States / Hawaii	Human	2022-10-19 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928807	A/Hawaii/45/2022	North America / United States / Hawaii	Human	2022-10-18 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928796	A/Colorado/36/2022	North America / United States / Colorado	Human	2022-10-16 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928787	A/Hawaii/43/2022	North America / United States / Hawaii	Human	2022-10-15 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928830	A/Hawaii/42/2022	North America / United States / Hawaii	Human	2022-10-13 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928818	A/Hawaii/41/2022	North America / United States / Hawaii	Human	2022-10-12 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928786	A/California/140/2022	North America / United States / California	Human	2022-10-12 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15715021	A/Iowa/26/2022	North America / United States / Iowa	Human	2022-10-07 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15928856	A/Iowa/26/2022	North America / United States / Iowa	Human	2022-10-07 00:00:00	United States	...............T.-.......C	..................	0.01	0.71	1	0	0.08	0.0
+EPI_ISL_15926932	A/Ibra/72211857/2022	Asia / Oman	Human	2022-10-23 00:00:00	Oman	...............T.-......G.	..................	0.0	0.71	1	0	0.08	0.0
+EPI_ISL_15926931	A/Ibra/72211780/2022	Asia / Oman	Human	2022-10-20 00:00:00	Oman	...............T.-......G.	..................	0.0	0.71	1	0	0.08	0.0
+EPI_ISL_15926949	A/Sohar/52223389/2022	Asia / Oman	Human	2022-10-10 00:00:00	Oman	...............T.-......G.	..................	0.0	0.71	1	0	0.08	0.0
+EPI_ISL_15724368	A/Ohio/40/2022	North America / United States / Ohio	Human	2022-10-09 00:00:00	United States	...A.............-........	....T............T	0.09	0.0	0	1	0.04	0.11
+EPI_ISL_15911439	A/Markham/9787/2022	Europe / United Kingdom / County Borough of Caerphilly	Human	2022-11-09 00:00:00	United Kingdom	..CA.............-...A....	....T.............	0.0	0.28	0	0	0.12	0.06
+EPI_ISL_15931414	A/Ile_de_France/52581/2022	Europe / France / Region Ile-de-France	Human	2022-10-10 00:00:00	France	..CA.............-...A....	....T.............	0.0	0.28	0	0	0.12	0.06
+EPI_ISL_15888836	A/England/224340730/2022	Europe / United Kingdom / LEEDS	Human	2022-10-08 00:00:00	United Kingdom	...A.T...........-...A....	....T.............	0.0	0.28	0	0	0.12	0.06
+EPI_ISL_15898442	A/Catalonia/NSVH198259854/2022	Europe / Spain / Catalonia / Barcelona	Human	2022-11-17 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15971253	A/Netherlands/11831/2022	Europe / Netherlands	Human	2022-11-16 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15895144	A/Netherlands/11830/2022	Europe / Netherlands	Human	2022-11-16 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15912219	A/Denbigh/6210/2022	Europe / United Kingdom / County of Denbighshite	Human	2022-11-15 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15912213	A/Bridgend/5826/2022	Europe / United Kingdom / County Borough of Bridgend	Human	2022-11-14 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15912172	A/Denbigh/1693/2022	Europe / United Kingdom / County of Denbighshite	Human	2022-11-13 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15837645	A/Catalonia/NSVH198259055/2022	Europe / Spain / Catalonia / Girona	Human	2022-11-09 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15911438	A/Cardiff/8182/2022	Europe / United Kingdom / City and County of Cardiff	Human	2022-11-08 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15911151	A/Porth/4171/2022	Europe / United Kingdom / County Borough of Rhondda Cynon Taff	Human	2022-11-06 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15839930	A/Cardiff/4322/2022	Europe / United Kingdom / City and County of Cardiff	Human	2022-11-04 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15911652	A/Penarth/6803/2022	Europe / United Kingdom / Vale of Glamorgan	Human	2022-11-04 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928558	A/Tennessee/39/2022	North America / United States / Tennessee	Human	2022-11-02 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15859375	A/Uppsala/7/2022	Europe / Sweden / Region Uppsala	Human	2022-11-01 00:00:00	Sweden	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928552	A/South Dakota/34/2022	North America / United States / South Dakota	Human	2022-10-31 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928553	A/South Dakota/31/2022	North America / United States / South Dakota	Human	2022-10-31 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774532	A/Netherlands/11805/2022	Europe / Netherlands	Human	2022-10-31 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15837589	A/Carmel/7711/2022	Europe / United Kingdom / Flintshire	Human	2022-10-31 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928565	A/South Dakota/34/2022	North America / United States / South Dakota	Human	2022-10-31 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15837588	A/Cardiff/7204/2022	Europe / United Kingdom / City and County of Cardiff	Human	2022-10-31 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928571	A/South Dakota/31/2022	North America / United States / South Dakota	Human	2022-10-31 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774530	A/Netherlands/11803/2022	Europe / Netherlands	Human	2022-10-30 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15701463	A/Catalonia/NSVH101942097/2022	Europe / Spain / Catalonia / Barcelona	Human	2022-10-30 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774533	A/Netherlands/11806/2022	Europe / Netherlands	Human	2022-10-30 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15838773	A/Cardiff/2327/2022	Europe / United Kingdom / City and County of Cardiff	Human	2022-10-30 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774528	A/Netherlands/11801/2022	Europe / Netherlands	Human	2022-10-29 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15727656	A/Penarth/5454/2022	Europe / United Kingdom / Vale of Glamorgan	Human	2022-10-28 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15701467	A/Catalonia/NSVH554907504/2022	Europe / Spain / Catalonia / Tarragona	Human	2022-10-27 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15701472	A/Catalonia/NSVH198258089/2022	Europe / Spain / Catalonia / Barcelona	Human	2022-10-27 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15727546	A/Dowlais/7331/2022	Europe / United Kingdom / County Borough of Merthyr Tydfil	Human	2022-10-27 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15740726	A/Treherbert/8379/2022	Europe / United Kingdom / County Borough of Rhondda Cynon Taff	Human	2022-10-27 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928732	A/Ohio/47/2022	North America / United States / Ohio	Human	2022-10-27 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928411	A/New Mexico/27/2022	North America / United States / New Mexico	Human	2022-10-27 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928412	A/New Mexico/24/2022	North America / United States / New Mexico	Human	2022-10-26 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928505	A/New Mexico/25/2022	North America / United States / New Mexico	Human	2022-10-26 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928576	A/New Mexico/24/2022	North America / United States / New Mexico	Human	2022-10-26 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15806334	A/Baltimore/JH-0473/2022	North America / United States	Human	2022-10-26 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774527	A/Netherlands/11795/2022	Europe / Netherlands	Human	2022-10-26 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928538	A/Wisconsin/67/2022	North America / United States / Wisconsin	Human	2022-10-25 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928753	A/Delaware/50/2022	North America / United States / Delaware	Human	2022-10-25 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928537	A/Ohio/45/2022	North America / United States / Ohio	Human	2022-10-25 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928563	A/Wisconsin/67/2022	North America / United States / Wisconsin	Human	2022-10-25 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928735	A/Rhode Island/54/2022	North America / United States / Rhode Island	Human	2022-10-25 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15740724	A/Pencae/2940/2022	Europe / United Kingdom / County Borough of Wrexham	Human	2022-10-25 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15740725	A/Llay/2236/2022	Europe / United Kingdom / County Borough of Wrexham	Human	2022-10-25 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928743	A/Georgia/35/2022	North America / United States / Georgia	Human	2022-10-25 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15579611	A/Catalonia/NSVH510595359/2022	Europe / Spain / Catalonia / Tarragona	Human	2022-10-25 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15727345	A/Llandeilo/0363/2022	Europe / United Kingdom / County of Carmarthenshire	Human	2022-10-25 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15937900	A/Northern Ireland/V22039362 /2022	Europe / United Kingdom / Northern Ireland	Human	2022-10-25 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15701468	A/Catalonia/NSVH534131315/2022	Europe / Spain / Catalonia / Tarragona	Human	2022-10-25 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928570	A/Wisconsin/66/2022	North America / United States / Wisconsin	Human	2022-10-24 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928506	A/Arizona/45/2022	North America / United States / Arizona	Human	2022-10-24 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888841	A/England/224360428/2022	Europe / United Kingdom / STOKE-ON-TRENT	Human	2022-10-24 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928733	A/Wisconsin/66/2022	North America / United States / Wisconsin	Human	2022-10-24 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888844	A/England/224360434/2022	Europe / United Kingdom / LEEDS	Human	2022-10-24 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888847	A/England/224360438/2022	Europe / United Kingdom / LEEDS	Human	2022-10-24 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15727179	A/Carrog/0134/2022	Europe / United Kingdom / County of Denbighshite	Human	2022-10-24 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888849	A/England/224360440/2022	Europe / United Kingdom / LEEDS	Human	2022-10-24 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928749	A/Georgia/34/2022	North America / United States / Georgia	Human	2022-10-24 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15726579	A/Barry/4287/2022	Europe / United Kingdom / Vale of Glamorgan	Human	2022-10-23 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15682634	A/Porthcawl/7552/2022	Europe / United Kingdom / County Borough of Bridgend	Human	2022-10-23 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15726576	A/Cardiff/2713/2022	Europe / United Kingdom / City and County of Cardiff	Human	2022-10-23 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888910	A/England/224380570/2022	Europe / United Kingdom / MANCHESTER	Human	2022-10-23 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888900	A/England/224380548/2022	Europe / United Kingdom / MANCHESTER	Human	2022-10-23 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774522	A/Netherlands/11788/2022	Europe / Netherlands	Human	2022-10-23 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15757917	A/Catalonia/NSVH101936269/2022	Europe / Spain / Catalonia / Barcelona	Human	2022-10-22 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888829	A/England/224340716/2022	Europe / United Kingdom / MANCHESTER	Human	2022-10-22 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928738	A/Connecticut/40/2022	North America / United States / Connecticut	Human	2022-10-22 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928567	A/Michigan/62/2022	North America / United States / Michigan	Human	2022-10-22 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928725	A/Michigan/62/2022	North America / United States / Michigan	Human	2022-10-22 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928536	A/Wisconsin/64/2022	North America / United States / Wisconsin	Human	2022-10-21 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888898	A/England/224380546/2022	Europe / United Kingdom / MANCHESTER	Human	2022-10-21 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15774518	A/Netherlands/11766/2022	Europe / Netherlands	Human	2022-10-21 00:00:00	Netherlands	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888811	A/England/224300855/2022	Europe / United Kingdom / TYNE AND WEAR	Human	2022-10-20 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888800	A/England/224300823/2022	Europe / United Kingdom / NOTTINGHAM	Human	2022-10-20 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888790	A/England/224280698/2022	Europe / United Kingdom / STOKE-ON-TRENT	Human	2022-10-20 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15579612	A/Catalonia/NSVH198257502/2022	Europe / Spain / Catalonia / Lleida	Human	2022-10-20 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15682635	A/Caerphilly/6561/2022	Europe / United Kingdom / County Borough of Caerphilly	Human	2022-10-20 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15579613	A/Catalonia/NSVH198257501/2022	Europe / Spain / Catalonia / Lleida	Human	2022-10-20 00:00:00	Spain	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928742	A/Connecticut/39/2022	North America / United States / Connecticut	Human	2022-10-20 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928730	A/Wisconsin/62/2022	North America / United States / Wisconsin	Human	2022-10-19 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15928737	A/Connecticut/38/2022	North America / United States / Connecticut	Human	2022-10-19 00:00:00	United States	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888901	A/England/224380550/2022	Europe / United Kingdom / MANCHESTER	Human	2022-10-19 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888808	A/England/224300846/2022	Europe / United Kingdom / LEICESTER	Human	2022-10-19 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
+EPI_ISL_15888748	A/England/224280680/2022	Europe / United Kingdom / NOTTINGHAM	Human	2022-10-19 00:00:00	United Kingdom	...A.............-...A....	....T.............	0.14	0.28	0	0	0.08	0.06
